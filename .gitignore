@@ -1,0 +1,13 @@
+# Compilaciones y archivos privados de Visual Studio
+.vs/
+**/bin/
+**/obj/
+*.user
+*.suo
+TestResults/
+# Configuración local y credenciales (nunca subirlas)
+appsettings.Local.json
+*.local.json
+*.db
+*.mdf
+*.ldf
